@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gokul P 👋
 
-<!--
-**Iamgokul7/Iamgokul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Entry-Level Software Engineer
 
-Here are some ideas to get you started:
+Computer Science Engineering graduate with hands-on experience in Python, Flask, Full Stack Web Development, Authentication Systems, and Secure Web Applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Chennai, Tamil Nadu, India
+* 💼 Open to Software Engineer, Python Developer, and Full Stack Developer roles
+* 📧 [gokul.p0807@gmail.com](mailto:gokul.p0807@gmail.com)
+* 🔗 LinkedIn: [www.linkedin.com/in/gokulp0807](http://www.linkedin.com/in/gokulp0807)
+
+## About Me
+
+I enjoy building secure and scalable web applications. My primary interests include software development, authentication systems, cybersecurity concepts, database-driven applications, and full stack development.
+
+I have worked on projects involving Flask, OpenCV, AES Encryption, DWT Steganography, PHP, MySQL, and modern web technologies while strengthening my problem-solving and development skills.
