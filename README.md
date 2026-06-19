@@ -8,6 +8,7 @@ Computer Science Engineering graduate with hands-on experience in software devel
 * 💼 Open to Software Engineering, Full Stack Development, QA Testing, Application Support, SAP/ERP, and other Technical Roles
 * 📧 [gokul.p0807@gmail.com](mailto:gokul.p0807@gmail.com)
 * 🔗 LinkedIn: https://www.linkedin.com/in/gokulp0807
+* 🔗 Portfolio: https://gokulp-portfolio.vercel.app/
 
 ## About Me
 
