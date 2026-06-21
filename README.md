@@ -65,14 +65,16 @@ I have worked on projects involving Flask, OpenCV, AES Encryption, DWT Steganogr
 
 ERPilot AI – Multi-Tenant Enterprise Resource Planning SaaS Platform
 
-Tech Stack: Python, Flask, SQLite, Docker, Gemini API
+**Tech Stack:** Python, Flask, SQLite, Docker, Gemini API
 
-Developed a complete AI-powered ERP SaaS platform covering employee management, inventory tracking, supplier management, sales order processing, notifications, and business reporting.
-Implemented a multi-tenant architecture with secure tenant-based data isolation, enabling multiple organizations to operate on a single deployment.
-Built role-based access control (RBAC), authentication workflows, and REST APIs to manage business operations securely across all modules.
-Integrated Google's Gemini API to provide an AI-powered business assistant capable of answering enterprise queries and generating contextual insights.
-Containerized the application using Docker and configured production-ready deployment using Gunicorn.
-Designed and tested a relational database architecture while ensuring data integrity, security, and scalability throughout the platform.
+• Developed a complete AI-powered ERP SaaS platform covering Employee Management, Inventory Management, Supplier Management, Sales Order Processing, Notifications, and Business Reporting.
+• Implemented a multi-tenant architecture with secure tenant-based data isolation, allowing multiple organizations to operate independently on a single platform.
+• Built Role-Based Access Control (RBAC) and authentication systems to manage permissions and secure access across all business modules.
+• Designed and developed REST APIs using Flask to support core business operations and seamless data management.
+• Integrated Google's Gemini API to create an AI-powered assistant capable of answering business queries and generating contextual insights.
+• Containerized the application using Docker and configured a production-ready deployment environment with Gunicorn.
+• Designed and optimized a relational database schema in SQLite, ensuring data integrity, scalability, and efficient data retrieval.
+• Performed functional testing, API validation, and debugging to improve system reliability, security, and performance.
 
 🔗 Repository: https://github.com/Iamgokul7/ERPilot-AI
 
