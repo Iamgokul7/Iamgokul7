@@ -63,6 +63,20 @@ I have worked on projects involving Flask, OpenCV, AES Encryption, DWT Steganogr
 
 ## 📌 Featured Projects
 
+ERPilot AI – Multi-Tenant Enterprise Resource Planning SaaS Platform
+
+Tech Stack: Python, Flask, SQLite, Docker, Gemini API
+
+Developed a complete AI-powered ERP SaaS platform covering employee management, inventory tracking, supplier management, sales order processing, notifications, and business reporting.
+Implemented a multi-tenant architecture with secure tenant-based data isolation, enabling multiple organizations to operate on a single deployment.
+Built role-based access control (RBAC), authentication workflows, and REST APIs to manage business operations securely across all modules.
+Integrated Google's Gemini API to provide an AI-powered business assistant capable of answering enterprise queries and generating contextual insights.
+Containerized the application using Docker and configured production-ready deployment using Gunicorn.
+Designed and tested a relational database architecture while ensuring data integrity, security, and scalability throughout the platform.
+
+🔗 Repository: https://github.com/Iamgokul7/ERPilot-AI
+
+
 ### Graphical Password Authentication With Data Hiding
 
 **Tech Stack:** Python, Flask, OpenCV, AES Encryption, DWT Steganography, SQLite
